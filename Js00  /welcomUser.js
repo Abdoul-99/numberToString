@@ -1,3 +1,3 @@
-var userName = "John" 
+var userName = "John";
 
 console.log("welcom", userName);
